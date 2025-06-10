@@ -4,7 +4,7 @@ A modern, responsive dashboard application built with React and Vite, featuring 
 
 ## 📸 Preview
 
-![LocalWell Dashboard Preview](https://via.placeholder.com/1200x800/f8f9fa/6c757d?text=LocalWell+Dashboard+Preview)
+![LocalWell Dashboard Preview](./src/sslocalwell.png)
 
 *Replace this placeholder with your actual screenshot*
 
