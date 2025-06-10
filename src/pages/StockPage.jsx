@@ -1,0 +1,21 @@
+import Sidebar from "../components/SideBar";
+
+const StockPage = () => (
+  <div className="flex-1 bg-white">
+  
+     
+      <div className="flex-1 p-8">
+        <div className="max-w-4xl">
+          <h1 className="text-2xl font-semibold text-gray-900 mb-4" style={{ fontFamily: 'Poppins ' }}>
+            Stock Management
+          </h1>
+          <p className="text-gray-600" style={{ fontFamily: 'Poppins ' }}>
+            Monitor your current stock levels and inventory status.
+          </p>
+        </div>
+     
+    </div>
+  </div>
+);
+
+export default StockPage
