@@ -6,7 +6,7 @@ A modern, responsive dashboard application built with React and Vite, featuring 
 
 ![LocalWell Dashboard Preview](./src/sslocalwell.png)
 
-*Replace this placeholder with your actual screenshot*
+
 
 ## ✨ Features
 
